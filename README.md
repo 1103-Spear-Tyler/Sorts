@@ -1,2 +1,2 @@
-# Sorts
-Different Sorting methods
+# Sorting
+Different Sorting methods in Javascript
